@@ -8,4 +8,3 @@ class Names(object):
     @staticmethod
     def names_list_display():
         print(Names.names_list)
-
